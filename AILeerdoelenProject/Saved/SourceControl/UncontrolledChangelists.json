@@ -6,7 +6,23 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AICharacter/BP_AICharacter.uasset"
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BP_CharAI.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BB_AI.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BP_AIController.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BT_AI.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BT_Tasks/FindRandomLocation.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G8/RB700MCFU2FGZBGGH87DOS.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VZ/TRK3Q27P2BGCO6TXRPEUOH.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/94/VRH2KY5TRJWX0MP0UEBXXJ.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BT_Tasks/FindPlayerLocation.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BT_Tasks/ChasePlayer.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BP_NPC.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BP_CharNPC.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BB_.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AICharacter/BP_AICharacter.uasset",
+				"C:/Users/menno/OneDrive/Bureaublad/ma/bewijzenmap/AIProjectLeerdoelen/AILeerdoelenProject/Content/AI/AICharacter/BP_AICharacter.uasset"
 			]
 		}
 	]
